@@ -165,12 +165,13 @@ A developer collaboration platform. Backend authentication is complete and front
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayodhya-Rode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayodhya-Rode&theme=tokyonight&hide_border=true&layout=compact" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayodhya-Rode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayodhya-Rode&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ayodhya-Rode&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Ayodhya-Rode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
