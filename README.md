@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodhya-rode-b30886284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodhyarode)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodeayodhya.pro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayodhya-Rode?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayodhyarode?tab=repositories)
 
 </div>
 
@@ -30,65 +30,135 @@ Full-stack developer who ships complete products: React frontends, Node/Express 
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **🎙️ TalentIQ** | Candidate-paid mock-interview platform. Race-safe slot booking with auto-assigned interviewers, Razorpay payments and refunds, LiveKit video interviews, AI-generated interview questions, 5 role-based dashboards | React · Node.js · Express · PostgreSQL · Prisma | [🔗 Live](https://talentiq2-frontend2.onrender.com/) · [Frontend](https://github.com/Ayodhya-Rode/TalentIQ2-frontend) · [Backend](https://github.com/Ayodhya-Rode/TalentIQ-2) |
-| **🛍️ Shopora** | MERN e-commerce with customer, seller and admin roles, Razorpay checkout (test mode), and an AI shopping assistant (Groq + Fuse.js) | React · TypeScript · Node.js · Express · MongoDB | [🔗 Live](https://shopora-frontend-wxiy.onrender.com/) · [Frontend](https://github.com/Ayodhya-Rode/Shopora-Frontend) · [Backend](https://github.com/Ayodhya-Rode/Shopora-Backend) |
-| **🚧 DevCollab** *(in progress)* | Developer collaboration platform. Backend authentication done, frontend started | React · Node.js · Express · PostgreSQL · Prisma | [Frontend](https://github.com/Ayodhya-Rode/Dev_Collab_Frontend) · [Backend](https://github.com/Ayodhya-Rode/Dev_Collab_Backend) |
+<div align="center">
+
+### 🎙️ TalentIQ
+**Candidate-Paid Mock Interview Platform**
+
+</div>
+
+A platform for candidates to practice interviews with interviewers, with payments, live video interviews and AI-generated questions.
+
+**Highlights**
+- Race-safe slot booking with automatically assigned interviewers.
+- Razorpay payments and refunds.
+- LiveKit video interviews.
+- AI-generated interview questions.
+- Five role-based dashboards.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Razorpay` `LiveKit`
+
+<div align="center">
+
+<a href="https://talentiq2-frontend2.onrender.com/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+<a href="https://github.com/Ayodhya-Rode/TalentIQ2-frontend">
+<img src="https://img.shields.io/badge/FRONTEND-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/Ayodhya-Rode/TalentIQ-2">
+<img src="https://img.shields.io/badge/BACKEND-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛍️ Shopora
+**MERN E-Commerce Platform**
 
-**Frontend**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Migration_Work-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+</div>
 
-**Backend**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A7E8C?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/Role--Based_Access-6C3FC5?style=for-the-badge)
+An e-commerce application with customer, seller and admin roles, Razorpay checkout in test mode, and an AI shopping assistant.
 
-**Databases**<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Highlights**
+- Customer, seller and admin roles.
+- Razorpay checkout (test mode).
+- AI shopping assistant using Groq and Fuse.js.
 
-**Integrations**<br/>
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
-![ImageKit](https://img.shields.io/badge/ImageKit-0F6FFF?style=for-the-badge)
-![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge)
-![node-cron](https://img.shields.io/badge/node--cron-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Tech Stack**
 
-**AI / LLM**<br/>
-![Groq API](https://img.shields.io/badge/LLM_Integration-Groq_API-F55036?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-Research-20808D?style=for-the-badge)
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Razorpay` `Groq` `Fuse.js`
 
-**Tools & Deployment**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<div align="center">
 
+<a href="https://shopora-frontend-wxiy.onrender.com/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+<a href="https://github.com/Ayodhya-Rode/Shopora-Frontend">
+<img src="https://img.shields.io/badge/FRONTEND-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/Ayodhya-Rode/Shopora-Backend">
+<img src="https://img.shields.io/badge/BACKEND-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚧 DevCollab
+**Developer Collaboration Platform**
+
+</div>
+
+A developer collaboration platform. Backend authentication is complete and frontend development has started.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma`
+
+<div align="center">
+
+<a href="https://github.com/Ayodhya-Rode/Dev_Collab_Frontend">
+<img src="https://img.shields.io/badge/FRONTEND-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/Ayodhya-Rode/Dev_Collab_Backend">
+<img src="https://img.shields.io/badge/BACKEND-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+*Currently in development.*
+
+---
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases & ORM
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
+
+### AI Tools
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge"/>
+
+</div>
 ---
 
 ## 📊 GitHub Stats
